@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mathesond900
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Web Dev.
-- 💞️ I’m looking to collaborate on Web Dev.
+- 👋 Hi, I’m Dorwu Gabriel
+- 👀 I’m interested in Pyhton Programming
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me on mathesond.gabriel90@gmail.com
 
 <!---
