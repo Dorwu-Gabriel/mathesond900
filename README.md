@@ -1,5 +1,5 @@
 Hi, I'm Gabriel, a Technical Support and Software Engineer with a passion for technology, problem-solving, and innovation.
-I hold a Bachelor’s Degree of in Information Technology and have experience in technical support, cloud computing, and software 
+I hold a Bachelors of Applied Science in Information Technology Degree and have experience in technical support, cloud computing, and software 
 development. My journey in tech has been fueled by a strong desire to learn, grow, and create solutions that make a difference.
 - 📫 How to reach me on mathesond.gabriel90@gmail.com
 
