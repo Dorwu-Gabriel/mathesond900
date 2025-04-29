@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Dorwu Gabriel
-- 👀 I’m interested in Pyhton Programming
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects.
+Hi, I'm Gabriel, a Technical Support and Software Engineer with a passion for technology, problem-solving, and innovation.
+I hold a Bachelor’s Degree of in Information Technology and have experience in technical support, cloud computing, and software 
+development. My journey in tech has been fueled by a strong desire to learn, grow, and create solutions that make a difference.
 - 📫 How to reach me on mathesond.gabriel90@gmail.com
 
 <!---
