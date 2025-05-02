@@ -1,5 +1,5 @@
 ![GitHub banner](https://github.com/user-attachments/assets/6dae5024-50a2-4b7d-8712-7b1658c5222d)
-
+![Codewars](https://www.codewars.com/users/mathesond900/badges/large)
 # Hi there, I'm Dorwu Gabriel! 👋
 
 ## About Me 🚀
