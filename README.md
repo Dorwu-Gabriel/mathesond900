@@ -1,6 +1,6 @@
-# Hi there, I'm Dorwu Gabriel! 👋
+![GitHub banner](https://github.com/user-attachments/assets/6dae5024-50a2-4b7d-8712-7b1658c5222d)
 
-![Banner Image](your_banner_image_url_here)
+# Hi there, I'm Dorwu Gabriel! 👋
 
 ## About Me 🚀
 
@@ -20,8 +20,6 @@ I'm a passionate **Technical Support and Software Engineer** with experience in 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python.py-339933?style=flat-square&logo=python.py&logoColor=yellow)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
